@@ -8,7 +8,6 @@ this is braNCH CODE
 
 
 sdsdsdsdsds
-<<<<<<< HEAD
 
 cdcd
 
@@ -17,5 +16,4 @@ ghhghg
 
 ghhghgghghghg
 cdcd
-=======
->>>>>>> parent of 332bddc... ggggggg
+
